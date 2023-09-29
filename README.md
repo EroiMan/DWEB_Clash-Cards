@@ -1,6 +1,3 @@
-# DWEB_Clash-Cards
-
-
 Clash Cards 
 Este é um projeto "Clash Cards", um jogo de sorteio de cards. A página foi desenvolvida usando HTML e CSS básicos para criar uma interface de usuário minimalista e atraente.
 
