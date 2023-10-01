@@ -1,9 +1,11 @@
-Clash Cards 
+# Clash Cards
+
 Este é um projeto "Clash Cards", um jogo de sorteio de cards. A página foi desenvolvida usando HTML e CSS básicos para criar uma interface de usuário minimalista e atraente.
 
-Conteúdo do Repositório
+## Conteúdo do Repositório
+
 O repositório contém os seguintes arquivos e diretórios:
 
-index.html: Este é o arquivo principal que contém a estrutura HTML da página inicial.
-css/: Contém os arquivos que fornece estilos para a página.
-imagens/: Contém imagens utilizadas na página, incluindo logotipos.
+- `index.html`: Este é o arquivo principal que contém a estrutura HTML da página inicial.
+- `css/`: Contém os arquivos que fornecem estilos para a página.
+- `imagens/`: Contém imagens utilizadas na página, incluindo logotipos.
