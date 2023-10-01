@@ -5,6 +5,5 @@ Conteúdo do Repositório
 O repositório contém os seguintes arquivos e diretórios:
 
 index.html: Este é o arquivo principal que contém a estrutura HTML da página inicial.
-assets/: Este diretório contém subdiretórios para recursos como imagens e folhas de estilo.
 css/: Contém os arquivos que fornece estilos para a página.
 imagens/: Contém imagens utilizadas na página, incluindo logotipos.
